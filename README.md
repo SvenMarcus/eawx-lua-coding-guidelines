@@ -448,6 +448,12 @@ function MyClass:new()
 end
 ```
 
+- Classes should have a `@class` annotation
+
+```lua
+---@class MyClass
+MyClass = class()
+```
 
 - Attribute and method names must follow the table key guidelines
 - If an attribute type can’t be inferred add type annotations
