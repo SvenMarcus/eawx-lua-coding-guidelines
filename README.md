@@ -21,7 +21,7 @@ When following coding guidelines they will learn to write somewhat better code f
 ## Visual Studio Code
 - Lua files should be edited with VS Code or an editor that supports EmmyLua
 - Install the following VS Code extensions:
-	- For linting and intelligente:
+	- For linting and intellisense:
 		- [Lua - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)
 	- For formatting:
 		- [vscode-lua-format - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Koihik.vscode-lua-format)
