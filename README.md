@@ -1,6 +1,7 @@
 - [Lua Coding Guidelines](#lua-coding-guidelines)
 	- [But why though?](#but-why-though)
 	- [Isn’t this going to make it harder for newcomers?](#isnt-this-going-to-make-it-harder-for-newcomers)
+	- [Important Principles](#important-principles)
 	- [Visual Studio Code](#visual-studio-code)
 	- [Variables](#variables)
 	- [Functions](#functions)
@@ -26,6 +27,10 @@ When following coding guidelines they will learn to write somewhat better code f
 	- For formatting:
 		- [vscode-lua-format - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Koihik.vscode-lua-format)
 
+## Important Principles
+
+1. Don't Repeat Yourself (DRY)
+	- When you find yourself repeating the same lines of code in different places extract a function or even class.
 
 ## Variables
 - Declare variables as `local` when possible.
